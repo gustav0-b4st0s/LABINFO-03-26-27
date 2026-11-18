@@ -1,0 +1,114 @@
+NOME: Gustavo Bastos
+NMEC: 114034
+
+Tarefa 1
+pwd
+touch identificacao.txt
+git add identificacao.txt
+git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+git push
+
+Tarefa 2
+mkdir "A114034"
+cd A114034
+pwd
+echo "Teste de LI 2026/2027" > README.md
+cd ..
+pwd
+history > cmdstask2.txt
+git add cmdstask2.txt A114034/README.md
+git commit -m "2.ª tarefa concluída"
+git push
+
+Tarefa 3
+touch index.html
+git add index.html
+git commit -m "3.ª tarefa concluída"
+git push
+
+Tarefa 4
+git add index.html
+git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+git push
+
+Tarefa 5
+git pull
+cp index.html disciplina.html
+git add disciplina.html
+git commit -m "Cria disciplina.html a partir de index.html"
+git push
+git pull
+git add disciplina.html
+git commit -m "5.ª tarefa cumprida"
+git push
+
+Tarefa 6
+git pull
+history > meusComandosCodespace.txt
+cat meusComandosCodespace.txt
+git commit -m "Tarefa 6: regista o histórico do Codespace"
+git push
+git pull
+history > meusComandosLocais.txt
+git add meusComandosLocais.txt
+git commit -m "Tarefa 6 cumprida"
+git push
+
+=== Comandos do Codespace ===
+    1  pwd
+    2  touch identificacao.txt
+    3  git status
+    4  git add identificacao.txt 
+    5  git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    6  git push
+    7  mkdir "A114034"
+    8  cd A114034
+    9  pwd
+   10  echo "Teste de LI 2026/2027" > README.md
+   11  cd ..
+   12  pwd
+   13  history > cmdstask2.txt
+   14  git add cmdstask2.txt A114034/README.md
+   15  git commit -m "2.ª tarefa concluída"
+   16  git push
+   17  git pull
+   18  cp index.html disciplina.html
+   19  git add disciplina.html
+   20  git commit -m "Cria disciplina.html a partir de index.html"
+   21  git push
+   22  history > meusComandosCodespace.txt
+--- Comandos do computador ---
+ 1973  touch "A-114034-notas.txt
+ 1974  "
+ 1975  clear
+ 1976  pwd
+ 1977  help
+ 1978  help pwd
+ 1979  clear
+ 1980  history
+ 1981  clear
+ 1982  history
+ 1983  clear
+ 1984  history
+ 1985  clear
+ 1986  git clone https://github.com/gustav0-b4st0s/LABINFO-03-26-27.git
+ 1987  git status
+ 1988  clear
+ 1989  touch index.html
+ 1990  git add index.html 
+ 1991  git commit -m "3.ª tarefa concluída"
+ 1992  git push
+ 1993  clear
+ 1994  man cp
+ 1995  git add index.html
+ 1996  git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+ 1997  git push
+ 1998  man cp
+ 1999  clear
+ 2000  git pull
+ 2001  git add disciplina.html 
+ 2002  git commit -m "5.ª tarefa cumprida"
+ 2003  git push
+ 2004  git pull
+ 2005  history > meusComandosLocais.txt
+
