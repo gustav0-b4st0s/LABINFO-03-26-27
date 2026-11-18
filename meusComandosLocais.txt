@@ -1,0 +1,33 @@
+ 1973  touch "A-114034-notas.txt
+ 1974  "
+ 1975  clear
+ 1976  pwd
+ 1977  help
+ 1978  help pwd
+ 1979  clear
+ 1980  history
+ 1981  clear
+ 1982  history
+ 1983  clear
+ 1984  history
+ 1985  clear
+ 1986  git clone https://github.com/gustav0-b4st0s/LABINFO-03-26-27.git
+ 1987  git status
+ 1988  clear
+ 1989  touch index.html
+ 1990  git add index.html 
+ 1991  git commit -m "3.ª tarefa concluída"
+ 1992  git push
+ 1993  clear
+ 1994  man cp
+ 1995  git add index.html
+ 1996  git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+ 1997  git push
+ 1998  man cp
+ 1999  clear
+ 2000  git pull
+ 2001  git add disciplina.html 
+ 2002  git commit -m "5.ª tarefa cumprida"
+ 2003  git push
+ 2004  git pull
+ 2005  history > meusComandosLocais.txt
